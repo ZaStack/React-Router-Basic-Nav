@@ -14,13 +14,13 @@ Topics:
 
 ### Initialize Project
 
-- [ ] cd into the repository and run `yarn install`
-- [ ] run `yarn start`
+- [x] cd into the repository and run `yarn install`
+- [x] run `yarn start`
 
 ### Steps for implementing React Router
 
-- [ ] You'll notice we've already installed `react-router-dom` for you.
-- [ ] `import` your BrowserRouter as Router inside your `index.js` file.
+- [x] You'll notice we've already installed `react-router-dom` for you.
+- [x] `import` your BrowserRouter as Router inside your `index.js` file.
 - [ ] Wrap your `<App />` component that you're passing to `ReactDOM.render()` with your new `Router` component.
 - [ ] open up your chrome `REACT DEV TOOLS` and notice your app is now all wrapped in `BrowserRouter`
 
